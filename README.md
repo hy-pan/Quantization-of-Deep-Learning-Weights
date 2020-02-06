@@ -1,4 +1,4 @@
-I little bit to say
+A little bit to say
 -----
 The quantitative method mentioned in Microsoft's 2018 paper LQ-Nets: Learned Quantization for Highly
 Accurate and Compact Deep Neural Networks is very interesting and I'm gonna apply it to my future research.
